@@ -1,0 +1,15 @@
+C:\Users\vivo pro17\Desktop\homeWork\3_leson_21\bin\Debug\net6.0\3_leson_21.exe
+C:\Users\vivo pro17\Desktop\homeWork\3_leson_21\bin\Debug\net6.0\3_leson_21.deps.json
+C:\Users\vivo pro17\Desktop\homeWork\3_leson_21\bin\Debug\net6.0\3_leson_21.runtimeconfig.json
+C:\Users\vivo pro17\Desktop\homeWork\3_leson_21\bin\Debug\net6.0\3_leson_21.dll
+C:\Users\vivo pro17\Desktop\homeWork\3_leson_21\bin\Debug\net6.0\ref\3_leson_21.dll
+C:\Users\vivo pro17\Desktop\homeWork\3_leson_21\bin\Debug\net6.0\3_leson_21.pdb
+C:\Users\vivo pro17\Desktop\homeWork\3_leson_21\obj\Debug\net6.0\3_leson_21.csproj.AssemblyReference.cache
+C:\Users\vivo pro17\Desktop\homeWork\3_leson_21\obj\Debug\net6.0\3_leson_21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivo pro17\Desktop\homeWork\3_leson_21\obj\Debug\net6.0\3_leson_21.AssemblyInfoInputs.cache
+C:\Users\vivo pro17\Desktop\homeWork\3_leson_21\obj\Debug\net6.0\3_leson_21.AssemblyInfo.cs
+C:\Users\vivo pro17\Desktop\homeWork\3_leson_21\obj\Debug\net6.0\3_leson_21.csproj.CoreCompileInputs.cache
+C:\Users\vivo pro17\Desktop\homeWork\3_leson_21\obj\Debug\net6.0\3_leson_21.dll
+C:\Users\vivo pro17\Desktop\homeWork\3_leson_21\obj\Debug\net6.0\ref\3_leson_21.dll
+C:\Users\vivo pro17\Desktop\homeWork\3_leson_21\obj\Debug\net6.0\3_leson_21.pdb
+C:\Users\vivo pro17\Desktop\homeWork\3_leson_21\obj\Debug\net6.0\3_leson_21.genruntimeconfig.cache
