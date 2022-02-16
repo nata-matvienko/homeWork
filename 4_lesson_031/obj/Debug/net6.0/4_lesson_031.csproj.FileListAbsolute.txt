@@ -1,0 +1,15 @@
+C:\Users\vivo pro17\Desktop\homeWork\4_lesson_031\obj\Debug\net6.0\4_lesson_031.csproj.AssemblyReference.cache
+C:\Users\vivo pro17\Desktop\homeWork\4_lesson_031\obj\Debug\net6.0\4_lesson_031.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivo pro17\Desktop\homeWork\4_lesson_031\obj\Debug\net6.0\4_lesson_031.AssemblyInfoInputs.cache
+C:\Users\vivo pro17\Desktop\homeWork\4_lesson_031\obj\Debug\net6.0\4_lesson_031.AssemblyInfo.cs
+C:\Users\vivo pro17\Desktop\homeWork\4_lesson_031\obj\Debug\net6.0\4_lesson_031.csproj.CoreCompileInputs.cache
+C:\Users\vivo pro17\Desktop\homeWork\4_lesson_031\bin\Debug\net6.0\4_lesson_031.exe
+C:\Users\vivo pro17\Desktop\homeWork\4_lesson_031\bin\Debug\net6.0\4_lesson_031.deps.json
+C:\Users\vivo pro17\Desktop\homeWork\4_lesson_031\bin\Debug\net6.0\4_lesson_031.runtimeconfig.json
+C:\Users\vivo pro17\Desktop\homeWork\4_lesson_031\bin\Debug\net6.0\4_lesson_031.dll
+C:\Users\vivo pro17\Desktop\homeWork\4_lesson_031\bin\Debug\net6.0\ref\4_lesson_031.dll
+C:\Users\vivo pro17\Desktop\homeWork\4_lesson_031\bin\Debug\net6.0\4_lesson_031.pdb
+C:\Users\vivo pro17\Desktop\homeWork\4_lesson_031\obj\Debug\net6.0\4_lesson_031.dll
+C:\Users\vivo pro17\Desktop\homeWork\4_lesson_031\obj\Debug\net6.0\ref\4_lesson_031.dll
+C:\Users\vivo pro17\Desktop\homeWork\4_lesson_031\obj\Debug\net6.0\4_lesson_031.pdb
+C:\Users\vivo pro17\Desktop\homeWork\4_lesson_031\obj\Debug\net6.0\4_lesson_031.genruntimeconfig.cache
