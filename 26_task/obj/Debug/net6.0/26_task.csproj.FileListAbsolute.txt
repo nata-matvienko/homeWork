@@ -1,0 +1,15 @@
+C:\Users\vivo pro17\Desktop\homeWork\26_task\obj\Debug\net6.0\26_task.csproj.AssemblyReference.cache
+C:\Users\vivo pro17\Desktop\homeWork\26_task\obj\Debug\net6.0\26_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivo pro17\Desktop\homeWork\26_task\obj\Debug\net6.0\26_task.AssemblyInfoInputs.cache
+C:\Users\vivo pro17\Desktop\homeWork\26_task\obj\Debug\net6.0\26_task.AssemblyInfo.cs
+C:\Users\vivo pro17\Desktop\homeWork\26_task\obj\Debug\net6.0\26_task.csproj.CoreCompileInputs.cache
+C:\Users\vivo pro17\Desktop\homeWork\26_task\bin\Debug\net6.0\26_task.exe
+C:\Users\vivo pro17\Desktop\homeWork\26_task\bin\Debug\net6.0\26_task.deps.json
+C:\Users\vivo pro17\Desktop\homeWork\26_task\bin\Debug\net6.0\26_task.runtimeconfig.json
+C:\Users\vivo pro17\Desktop\homeWork\26_task\bin\Debug\net6.0\26_task.dll
+C:\Users\vivo pro17\Desktop\homeWork\26_task\bin\Debug\net6.0\ref\26_task.dll
+C:\Users\vivo pro17\Desktop\homeWork\26_task\bin\Debug\net6.0\26_task.pdb
+C:\Users\vivo pro17\Desktop\homeWork\26_task\obj\Debug\net6.0\26_task.dll
+C:\Users\vivo pro17\Desktop\homeWork\26_task\obj\Debug\net6.0\ref\26_task.dll
+C:\Users\vivo pro17\Desktop\homeWork\26_task\obj\Debug\net6.0\26_task.pdb
+C:\Users\vivo pro17\Desktop\homeWork\26_task\obj\Debug\net6.0\26_task.genruntimeconfig.cache
