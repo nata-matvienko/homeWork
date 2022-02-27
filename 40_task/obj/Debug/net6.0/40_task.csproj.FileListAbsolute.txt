@@ -1,0 +1,15 @@
+C:\Users\vivo pro17\Desktop\homeWork\40_task\bin\Debug\net6.0\40_task.exe
+C:\Users\vivo pro17\Desktop\homeWork\40_task\bin\Debug\net6.0\40_task.deps.json
+C:\Users\vivo pro17\Desktop\homeWork\40_task\bin\Debug\net6.0\40_task.runtimeconfig.json
+C:\Users\vivo pro17\Desktop\homeWork\40_task\bin\Debug\net6.0\40_task.dll
+C:\Users\vivo pro17\Desktop\homeWork\40_task\bin\Debug\net6.0\ref\40_task.dll
+C:\Users\vivo pro17\Desktop\homeWork\40_task\bin\Debug\net6.0\40_task.pdb
+C:\Users\vivo pro17\Desktop\homeWork\40_task\obj\Debug\net6.0\40_task.csproj.AssemblyReference.cache
+C:\Users\vivo pro17\Desktop\homeWork\40_task\obj\Debug\net6.0\40_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivo pro17\Desktop\homeWork\40_task\obj\Debug\net6.0\40_task.AssemblyInfoInputs.cache
+C:\Users\vivo pro17\Desktop\homeWork\40_task\obj\Debug\net6.0\40_task.AssemblyInfo.cs
+C:\Users\vivo pro17\Desktop\homeWork\40_task\obj\Debug\net6.0\40_task.csproj.CoreCompileInputs.cache
+C:\Users\vivo pro17\Desktop\homeWork\40_task\obj\Debug\net6.0\40_task.dll
+C:\Users\vivo pro17\Desktop\homeWork\40_task\obj\Debug\net6.0\ref\40_task.dll
+C:\Users\vivo pro17\Desktop\homeWork\40_task\obj\Debug\net6.0\40_task.pdb
+C:\Users\vivo pro17\Desktop\homeWork\40_task\obj\Debug\net6.0\40_task.genruntimeconfig.cache
